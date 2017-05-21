@@ -7,7 +7,8 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            <img src="images/phatt-logo.png"/>
+title:            Phatt
+logo:             <img src="images/phatt-logo.png"/>
 tagline:          'Phatt'
 description:      'Place holder text'
 url:              https://vorpalchic.github.io
