@@ -9,8 +9,8 @@ relative_permalinks: false
 # Setup
 title:            Phatt
 logo:             <img src="images/phatt-logo.png"/>
-tagline:          'Phatt'
-description:      'Be Bold. Be Fierce. Be Phatt.'
+tagline:          'Be Bold. Be Fierce. Be Phatt.'
+description:      'A blog about my fitness and health journey, by Belinda Luce.'
 url:              https://vorpalchic.github.io
 baseurl:          /
 
