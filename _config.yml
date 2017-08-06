@@ -26,5 +26,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/#
   
-  # Google services
-  google_analytics: UA-104174148-1
+# Google services
+google_analytics: UA-104174148-1
