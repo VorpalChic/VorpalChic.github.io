@@ -11,7 +11,7 @@ comments: true
 “I just don’t have the time.” “I have to wait until (insert date here) to start my diet.” “Gah, I’m so out of shape, I just don’t think I could exercise.” “The gym is just too expensive.” “Healthy food is too expensive!” “I don’t know how to cook.”
 
 Tell me, have you ever uttered one of these phrases when the mention of diet or exercise comes into play? I’m beyond guilty of blurting out these excuses, sometimes without even thinking. I mean really who wants to wake up at the ass crack of dawn and go for a jog? I mean this with the most respect as possible, but if you raised your hand, you’re a liar!
-
+<!--more-->
 There really are a million excuses as to why we can’t exercise, it’s hard for us to find a reason why all those excuses don’t matter. So stop for a moment, and don’t think about eating healthy or exercising. Sometimes this is too much for us to take in. For now, just take all of your excuses and tuck them away in the far reaches of you mind.
 
 While you’re sitting there, hopefully with more mental clarity, start jotting down all the reasons that you need to start living a more active healthy lifestyle. Write down anything that comes to mind, even if it seems insignificant or petty.
