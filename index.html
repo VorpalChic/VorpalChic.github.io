@@ -17,7 +17,10 @@ comments: true
 
     {% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}<br />
-    <div id="read-more"><a href="{{ site.baseurl }} {{ post.url }}"> Read more</a></div>
+    <div id="read-more">
+      <hr>
+      <a href="{{ site.baseurl }} {{ post.url }}"> Read more</a>
+    </div>
 {% else %}
     {{ post.content }}
 {% endif %}
