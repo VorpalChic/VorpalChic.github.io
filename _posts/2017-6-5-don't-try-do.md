@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don't Try, Do!
+comments: true
 ---
 
 I recently started reading this book titled [“The Subtle Art of Not Giving a F*ck”](http://a.co/8hMCAif) by Mark Manson. Lovely title right? I heard of the book a couple of times in the past, and thought that it was a total joke. You know the books that you buy as gag gifts. Only, once I actually found out it was a honest to goodness self help book, I figured what the hell I’ll read it.<!--more-->
