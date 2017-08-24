@@ -3,7 +3,7 @@ layout: post
 title: Don't Try, Do!
 ---
 
-I recently started reading this book titled [“The Subtle Art of Not Giving a F*ck”](http://a.co/8hMCAif) by Mark Manson. Lovely title right? I heard of the book a couple of times in the past, and thought that it was a total joke. You know the books that you buy as gag gifts. Only, once I actually found out it was a honest to goodness self help book, I figured what the hell I’ll read it.
+I recently started reading this book titled [“The Subtle Art of Not Giving a F*ck”](http://a.co/8hMCAif) by Mark Manson. Lovely title right? I heard of the book a couple of times in the past, and thought that it was a total joke. You know the books that you buy as gag gifts. Only, once I actually found out it was a honest to goodness self help book, I figured what the hell I’ll read it.<!--more-->
 
 The author gives you a hard core does of reality, in some not so conventional ways. I’ve started reading it a couple of time, but life gets in the way and I keep putting it down. However, I’m going to use this as the first step to my mental rehabilitation, so to speak. Now, I’m not usually into a bunch of self help crap. Once I had an accounting teacher that was really into it, and she pushed it on us like it was a religion. Then of course the kiss-ups in class liked to read them to gain teacher approval. Needless to say, it left a bad taste in my mouth.
 
