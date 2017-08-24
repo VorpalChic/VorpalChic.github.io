@@ -5,7 +5,7 @@ title: Turning Point
 
 I haven’t written a post in a couple of weeks… Okay a month, but I’ve had a lot of new developments in my life that I’ve been focusing on.
 
-The beginning of this month I hit a pivotal moment in my life. My family and I went to an amusement park for my great niece’s birthday party. Yay, get to spend some quality stress free time with my family, or so I thought … 
+The beginning of this month I hit a pivotal moment in my life. My family and I went to an amusement park for my great niece’s birthday party. Yay, get to spend some quality stress free time with my family, or so I thought … <!--more-->
 
 I LOVE thrill rides! The scarier the better! I purposefully bought the more expensive ride bracelet so I could chain ride the parks thrill-ier rides … I just made that word up. 
 
