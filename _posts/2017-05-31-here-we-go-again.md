@@ -2,7 +2,7 @@
 layout: post
 title: Here We Go Again
 ---
-Alrighty, here comes the typical this is me and here is a little about my life. Okay ready set go! I’m a twenty-eight year old mother from Vancouver, WA. My son is super awesome, and ridiculously funny. I just celebrated my seventh wedding anniversary with my wonderful husband. We met while we were in vocational school, and have really grown up together. I  graduated a couple of year ago, and obtained my degree in web and graphic design. I work as a freelance web designer, and my husband develops the sites. Whew, see that wasn’t too bad. 
+Alrighty, here comes the typical this is me and here is a little about my life. Okay ready set go! I’m a twenty-eight year old mother from Vancouver, WA. My son is super awesome, and ridiculously funny. I just celebrated my seventh wedding anniversary with my wonderful husband. We met while we were in vocational school, and have really grown up together. I  graduated a couple of year ago, and obtained my degree in web and graphic design. I work as a freelance web designer, and my husband develops the sites. Whew, see that wasn’t too bad. <!--more-->
 
 So, about a month ago, my husband and I decided to venture into this diet called Keto. Now, this isn’t the first time that I’ve tried Keto. The last time I took on this diet, I lost seventy-five pounds. Yay me right? That’s what I thought for a long time. I lost all this weight, but I got down to a certain weight and became discouraged that I wasn't losing any more weight. How did I break this plateau you may ask? I didn’t, in fact I started gaining weight. I figured I wasn’t going to lose anymore, so I gave up.
 
