@@ -18,7 +18,7 @@ comments: true
     {% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
 {% else %}
-    This didn't work!
+    {{ post.content }}
 {% endif %}
     
   </div>
