@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Here We Go Again
+comments: true
 ---
 Alrighty, here comes the typical this is me and here is a little about my life. Okay ready set go! I’m a twenty-eight year old mother from Vancouver, WA. My son is super awesome, and ridiculously funny. I just celebrated my seventh wedding anniversary with my wonderful husband. We met while we were in vocational school, and have really grown up together. I  graduated a couple of year ago, and obtained my degree in web and graphic design. I work as a freelance web designer, and my husband develops the sites. Whew, see that wasn’t too bad. <!--more-->
 
