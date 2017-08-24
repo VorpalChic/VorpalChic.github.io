@@ -8,9 +8,9 @@ I haven’t written a post in a couple of weeks… Okay a month, but I’ve had 
 
 The beginning of this month I hit a pivotal moment in my life. My family and I went to an amusement park for my great niece’s birthday party. Yay, get to spend some quality stress free time with my family, or so I thought … 
 
-I LOVE thrill rides! The scarier the better! I purposefully bought the more expensive ride bracelet so I could chain ride the parks thrill-ier rides … I just made that word up. <!--more-->
+I LOVE thrill rides! The scarier the better! I purposefully bought the more expensive ride bracelet so I could chain ride the parks thrill-ier rides … I just made that word up. 
 
-I’m standing in line, and finally they start loading the ride. Get into my chair, and the safety bar comes down. OMG this is going to be amazing!! My bar comes back up. “Ma’am, I’m sorry I can’t let you ride. The safety bar wont close.” What? I’m officially too fat to ride on an amusement park ride? You can imagine my embarrassment of having to get off the ride, and walk off the platform in front of three dozen people in line. I was mortified!
+I’m standing in line, and finally they start loading the ride. Get into my chair, and the safety bar comes down. OMG this is going to be amazing!! My bar comes back up. “Ma’am, I’m sorry I can’t let you ride. The safety bar wont close.” What? I’m officially too fat to ride on an amusement park ride? You can imagine my embarrassment of having to get off the ride, and walk off the platform in front of three dozen people in line. I was mortified!<!--more-->
 
 Standing on the ground waiting for my nice who was riding the ride, I could feel the tears start to prick at the back of my eyes. I thought to myself, “Okay, that sucked, but I’m not going to let it get me down. So what one ride big deal, I’m working on my weight.” We move onto another ride, and you don’t have to be a psychic to guess what happen next.
 
