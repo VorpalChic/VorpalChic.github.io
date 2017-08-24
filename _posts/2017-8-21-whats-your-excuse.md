@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What’s Your Excuse?
+comments: true
 ---
 
 > “Your body keeps an accurate journal regardless of what you write down…” … Or don’t write down, I’m speaking from personal experience. This is a quote that speaks  volumes to me.  Regardless of how closely I keep track of my body, if I’m not putting in the effort to make a change, nothing will change.
@@ -24,3 +25,24 @@ It’s really up to you to make a difference in your life. No one is going to be
 Wait a minute… hold on...You don’t need to jump right up and throw out all your goodies all at once, take your time! Find one small thing you can change, and do that for a week. Drink Coffee in the morning? Try to put a low-calorie sweetener, or no sweetener at all if you’re feeling brave! Drink soda five days a week for lunch? Try switching one of those days with water or another beverage with less sugar. Don’t get enough exercise? Try taking a five to ten minute walk around your neighborhood daily for a week. 
 
 I take part in the [Keto Diet](https://www.ruled.me/guide-keto-diet/), but we humans are all different. Something that could be right for me, may not be right for you. Find something that works well for you and try to steer your life in that direction one baby step at a time.
+
+{% if page.comments %} <div id="disqus_thread"></div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://phatt.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            {% endif %}
