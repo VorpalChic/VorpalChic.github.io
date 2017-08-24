@@ -13,6 +13,7 @@ tagline:          'Be Bold. Be Fierce. Be Phatt.'
 description:      'A blog about my fitness and health journey, by Belinda Luce.'
 url:              https://vorpalchic.github.io
 baseurl:          /
+comments:         true
 
 author:
   name:           'Belinda Luce'
