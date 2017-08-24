@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Turning Point
+comments: true
 ---
 
 I haven’t written a post in a couple of weeks… Okay a month, but I’ve had a lot of new developments in my life that I’ve been focusing on.
