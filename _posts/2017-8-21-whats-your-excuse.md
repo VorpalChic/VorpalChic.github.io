@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What’s Your Excuse?
+comments: true
 ---
 
 > “Your body keeps an accurate journal regardless of what you write down…” … Or don’t write down, I’m speaking from personal experience. This is a quote that speaks  volumes to me.  Regardless of how closely I keep track of my body, if I’m not putting in the effort to make a change, nothing will change.
